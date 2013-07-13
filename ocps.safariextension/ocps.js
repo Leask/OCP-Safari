@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name OpenGG.Clean.Player(Bae
 // @author Anonymous
-// @description é€šè¿‡æ›¿æ¢swfæ’­æ”¾å™¨çš„æ–¹å¼æ¥è§£å†³ä¼˜é…·çš„é»‘å±å¹¿å‘Š+Bilibilié»‘ç§‘æŠ€ In Godï¼ŒWe Turst.
+// @description 通过替换swf播放器的方式来解决优酷的黑屏广告+Bilibili黑科技 In God，We Turst.
 // @version 1.366.2
 // @namespace http://userscripts.org/users/Kawaiiushio
 // @updateURL https://userscripts.org/scripts/source/162286.meta.js
@@ -12,13 +12,13 @@
 // ==/UserScript==
 
 /*
- * === è¯´æ˜Ž ===
- * æœ¬è„šæœ¬å‚è€ƒhttp://bbs.kafan.cn/thread-1514537-1-1.html æ„Ÿè°¢å¡é¥­å¤§ç¥ž
- * Chromeç”¨æˆ·ä¹Ÿå¯ä»¥ä½¿ç”¨Adkill and Media downloadè¿™ä¸ªæ‰©å±•
- * æ­¤è„šæœ¬è®¾è®¡ä¿®æ”¹äººå‘˜OpenGG  Harv  xplsy  15536900  yndoc  KawaiiUshio 5B4Bé“…ç¬”
- * Bilibilié»‘ç§‘æŠ€ç”±FireAwayæä¾›      å‚è€ƒï¼šhttp://userscripts.org/scripts/show/165424
- * Operaå…¼å®¹éƒ¨åˆ†ç”±Geraldä¿®æ”¹
- * In Godï¼ŒWe Trust.
+ * === 说明 ===
+ * 本脚本参考http://bbs.kafan.cn/thread-1514537-1-1.html 感谢卡饭大神
+ * Chrome用户也可以使用Adkill and Media download这个扩展
+ * 此脚本设计修改人员OpenGG  Harv  xplsy  15536900  yndoc  KawaiiUshio 5B4B铅笔
+ * Bilibili黑科技由FireAway提供      参考：http://userscripts.org/scripts/show/165424
+ * Opera兼容部分由Gerald修改
+ * In God，We Trust.
  * THX.
  */
 
