@@ -1,3 +1,5 @@
+// Flora OCP Safari by LeaskH.com
+
 // ==UserScript==
 // @name OpenGG.Clean.Player(Bae
 // @author Anonymous
