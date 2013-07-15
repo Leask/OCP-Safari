@@ -9,7 +9,7 @@ Based on 'OpenGG.Clean.Player(Bae'.
 
 
 ## Special Thanks
-@OpenGG @Harv @xplsy @15536900 @yndoc @KawaiiUshio, 5B4B铅笔, FireAway, Gerald.
+@OpenGG, @Harv, @xplsy, @15536900, @yndoc, @KawaiiUshio, 5B4B铅笔, FireAway, Gerald.
 
 
 ## See Also
